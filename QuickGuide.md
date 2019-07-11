@@ -1,6 +1,6 @@
 # JNI Quick Guide
 
-HxZhu
+hxzhu
 
 Created Jul 8, 2019
 
@@ -88,7 +88,7 @@ Created Jul 8, 2019
 
        * Naming format `lib+NAME.jnilib`
 
-5. `javac Helloworld`
+5. `javac Helloworld.java`
 
 6. `java Helloworld`
 
